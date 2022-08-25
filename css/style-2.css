@@ -1,10 +1,10 @@
 :root {
   --white: #ffffff;
-  --black: #000;
-  --blue: #034C81;
+  --black: #060700;
+  --green: #28772F;
   --text-white: #ffffff;
-  --text-black: #000; 
-  --text-blue: #034C81; }
+  --text-black: #060700;
+  --text-green: #28772F; }
   @media screen and (min-width: 992px) {
     :root {
       --margin-x: 88px;
